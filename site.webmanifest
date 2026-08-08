@@ -1,0 +1,17 @@
+{
+  "name": "BilkaRoofArt",
+  "short_name": "BilkaRoofArt",
+  "description": "Acoperisuri noi, ferestre de mansarda, izolatii si tinichigerie la nivel national.",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ],
+  "theme_color": "#0D0B0A",
+  "background_color": "#0D0B0A",
+  "display": "standalone",
+  "start_url": "/",
+  "lang": "ro"
+}
